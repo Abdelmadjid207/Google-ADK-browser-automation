@@ -44,7 +44,6 @@ navigation_agent = LlmAgent(
     ),
 )
 
-from google.adk.agents import LoopAgent
 
 loop_agent = LoopAgent(
     name="browser_control_loop",
