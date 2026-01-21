@@ -26,10 +26,13 @@ adk web
 ```
 And congratulations, now choose the agent folder and write your prompt.  
 ![ADK UI](adk_ui.png)
+![ADK UI EXAMPLE 01](adk_ui_ex1.png)
+The agent closed the browser immediately so I browsed myself just to check if the result is true:
+![ADK UI EXAMPLE 02](adk_ui_ex2.png)
 <details>
   <summary>What's supposed to happen?</summary>
   Once you write your prompt, the assistant agent creats a first step and transfers to the browser agent.  
-  Then a Chrome window appears streaming the agent browsing while looking to answer your prompt.
+  Then a Chrome window appears streaming the agent browsing while looking to answer your prompt.  
 </details>
 
 ## Notes
