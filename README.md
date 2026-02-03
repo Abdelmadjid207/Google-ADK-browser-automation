@@ -41,4 +41,4 @@ The agent closed the browser immediately so I browsed myself just to check if th
 import os
 os.environ["HTTPX_FORCE_IPV4"] = "1"
 ```
-- These prompts are just a quick test. In order to avoid token exhaustion, feel free to add more instructions on dealing with pop-up elements or login-demanding sites.  
+- These prompts are just a quick test. In order to avoid token exhaustion, feel free to add more instructions on dealing with pop-up elements or login-demanding sites. Just always make sure the agents declaration is within a python file named **`agent.py`** 
